@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4033
+
+Rally ALM Integration for Vim
+
+Rally is an award winning Agile Lifecycle Management (ALM) tool that helps organizations predictably deliver valuable, quality software.  Deliver the features users love.  Faster.
+
+As a vim user, you know what productivity _really_ means.  This plugin lets you collaborate with your agile team using Rally and keep your fingers on the keyboard. 
+        
+This plugin provides the ability to search and display stories, tasks, and defects.  It also supports updating task estimate and todo.  Lastly, you can also show iteration burndown and cumulative flow charts for the current active iteration.
+
+Written mostly in ruby, this plugin requires vim7.2 patch 374 or greater (that patch has a req'd ruby interface fix) and ruby 1.8.6 or greater.   See the installation file for details.
+
+See screenshots and fork me on github.  https://github.com/davidpthomas/vim4rally
+
+Happy vimming!
