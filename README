@@ -8,8 +8,12 @@ As a vim user, you know what productivity _really_ means.  This plugin lets you 
         
 This plugin provides the ability to search and display stories, tasks, and defects.  It also supports updating task estimate and todo.  Lastly, you can also show iteration burndown and cumulative flow charts for the current active iteration.
 
-Written mostly in ruby, this plugin requires vim7.2 patch 374 or greater (that patch has a req'd ruby interface fix) and ruby 1.8.6 or greater.   See the installation file for details.
+Written mostly in ruby, the latest version uses vim7.4, ruby2.0, and is compatible with vundle plugin manager.   Note:  Earlier versions of this plugin have supported and required vim7.2 patch 374 or greater (that patch has a req'd ruby interface fix) and ruby 1.8.6 or greater.   With all the dependency goodness lately, YMMV.  
 
-See screenshots and fork me on github.  https://github.com/davidpthomas/vim4rally
+Before installing, read the Requirements and Installation notes https://github.com/davidpthomas/vim4rally/blob/master/doc/rally.txt
+
+Get the latest plugin and see screenshots in github https://github.com/davidpthomas/vim4rally
+
+Overview video (5min): http://screencast.com/t/9a27gnOOA
 
 Happy vimming!
